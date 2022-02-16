@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185535509165",
+    "project_id": "flutter-health-fitness",
+    "storage_bucket": "flutter-health-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185535509165:android:b9063cccb71c67f0608c24",
+        "android_client_info": {
+          "package_name": "com.example.fitness_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185535509165-mvtb0j5b5i9eiorqh7iijngbku9iliju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitness_flutter",
+            "certificate_hash": "841e13290b84a82692f59cf84a1913fd1bf47a2d"
+          }
+        },
+        {
+          "client_id": "185535509165-bp07um5qd53co8910u3fr8fca1e370p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6oGxc8GiUMySgufkV2e2_oTZZaCrPE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185535509165-bp07um5qd53co8910u3fr8fca1e370p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
